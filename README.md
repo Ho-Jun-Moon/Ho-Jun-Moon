@@ -2,6 +2,26 @@
 
 ![Profile](http://drive.google.com/uc?export=view&id=1un7V-Pk5ZbmH2pgMTeLZTXBaVeQSFiKj)
 
+#### 📘 ️Edu  
+
+`-` Pusan National University, Statistics 
+`-` Big Leader AI Academy _ Kyungnam Univ.  
+
+
+#### 🏆 Project  
+
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| 1998.12 - 1998.12 | Speaking | Start saying 'momy' |
+| 1999.02 - 1999.02 | Walking | Learning to walk on two feet. |
+| 2009.01 - 2009.01 | Cooking | Cooking instance noodle by myself. |
+| ------ | ------ | ------| 
+
+#### 🧩 Skill  
+
+ Python / SQL / HTML & CSS & JS   
+
+
 <!--
 **Ho-Jun-Moon/Ho-Jun-Moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
