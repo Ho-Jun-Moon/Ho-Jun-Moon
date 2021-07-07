@@ -14,8 +14,8 @@
 | ------- | ------- | -------|
 | 1998.12 - 1998.12 | Speaking | Start saying 'momy' |
 | 1999.02 - 1999.02 | Walking | Learning to walk on two feet. |
+| 2004.01 - 2004.12 | Writing | Learning how to write down own name.  |
 | 2009.01 - 2009.01 | Cooking | Cooking instance noodle by myself. |
-| ------ | ------ | ------| 
 
 #### 🧩 Skill  
 
