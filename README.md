@@ -7,7 +7,7 @@
 #### `-` Pusan National University, Statistics  
 #### `-` Big Leader AI Academy _ Kyungnam Univ.  
 
-
+  
 ### 🏆 Project  
 
 | PERIOD | TITLE | SUBJECT |
@@ -16,7 +16,7 @@
 | 1999.02 - 1999.02 | Walking | Learning to walk on two feet. |
 | 2004.01 - 2004.12 | Writing | Learning how to write down own name.  |
 | 2009.01 - 2009.01 | Cooking | Cooking instance noodle by myself. |
-
+  
 ### 🧩 Skill  
 
 ### Python / SQL / HTML & CSS & JS   
