@@ -4,7 +4,7 @@
 
 ### 📘 ️Edu  
 
-#### `-` Pusan National University, Statistics  
+#### `-` Pusan National University, Major : Statistics  
 #### `-` Big Leader AI Academy _ Kyungnam Univ.  
 
   
