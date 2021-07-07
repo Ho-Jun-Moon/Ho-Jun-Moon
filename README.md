@@ -1,14 +1,14 @@
-## Hi there! 👋, I'm Ho Jun Moon
+# Hi there! 👋, I'm Ho Jun Moon
 
 ![Profile](http://drive.google.com/uc?export=view&id=1un7V-Pk5ZbmH2pgMTeLZTXBaVeQSFiKj)
 
-#### 📘 ️Edu  
+### 📘 ️Edu  
 
-`-` Pusan National University, Statistics  
-`-` Big Leader AI Academy _ Kyungnam Univ.  
+#### `-` Pusan National University, Statistics  
+#### `-` Big Leader AI Academy _ Kyungnam Univ.  
 
 
-#### 🏆 Project  
+### 🏆 Project  
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
@@ -17,9 +17,9 @@
 | 2004.01 - 2004.12 | Writing | Learning how to write down own name.  |
 | 2009.01 - 2009.01 | Cooking | Cooking instance noodle by myself. |
 
-#### 🧩 Skill  
+### 🧩 Skill  
 
- Python / SQL / HTML & CSS & JS   
+### Python / SQL / HTML & CSS & JS   
 
 
 <!--
