@@ -20,7 +20,7 @@
   
 ### 🧩 Skill  
 
-### Python / SQL / HTML & CSS & JS   
+#### Python / SQL / HTML & CSS & JS   
   
   
 ### ✍ Study about  
