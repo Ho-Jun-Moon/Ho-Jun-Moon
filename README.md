@@ -23,10 +23,10 @@
   
 ### ✍ Study about  
   
-#### '-' Multivariate statistics
-#### '-' Machine learning  
-#### '-' Deep learning  
-#### '-' Feature Engineering  
+#### `-` Multivariate statistics
+#### `-` Machine learning  
+#### `-` Deep learning  
+#### `-` Feature Engineering  
 
 
 <!--
