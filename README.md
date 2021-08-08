@@ -17,9 +17,11 @@
 | 2004.01 - 2004.12 | Writing | Learning how to write down own name.  |
 | 2009.01 - 2009.01 | Cooking | Cooking instance noodle by myself. |
   
+  
 ### 🧩 Skill  
 
 ### Python / SQL / HTML & CSS & JS   
+  
   
 ### ✍ Study about  
   
