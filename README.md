@@ -20,6 +20,13 @@
 ### 🧩 Skill  
 
 ### Python / SQL / HTML & CSS & JS   
+  
+### ✍ Study about  
+  
+#### '-' Multivariate statistics
+#### '-' Machine learning  
+#### '-' Deep learning  
+#### '-' Feature Engineering  
 
 
 <!--
